@@ -234,9 +234,9 @@ TODO:
     -- Here, you can pass the folder that contains your layers.
     -- Drop your 'layers' folder in the same directory as the 'main.py' file.
 '''
-list_assets=["gayans_v1","gayans_v2","gayans_v3"]
+list_assets=["ex_1","ex_2"]
 # Number of NFT for each folder
-list_assets_num=[177,1600,444]
+list_assets_num=[5,5]
 
 ''' 
 NOTE: len(list_assets)   ==    len(list_assets_num)
